@@ -38,7 +38,7 @@ output
 
     "user": {
 
-      "name": "admVD08888@jetblue.com",
+      "name": "id.com",
 
       "type": "user"
 
